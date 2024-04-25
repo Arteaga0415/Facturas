@@ -12,9 +12,12 @@ Este repositorio contiene un programa que acepta recibos de compra en formato PD
 
 Necesitarás Python instalado y algunas bibliotecas. Asegúrate de tener la última versión de `pip` y ejecuta los siguientes comandos para instalar las dependencias necesarias:
 
-```bash
 ```
 pip install PyPDF2
 ```
+```
 pip install pandas
-pip install openpyxl  # Necesario para la escritura de archivos Excel
+```
+```
+pip install openpyxl
+```
